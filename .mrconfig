@@ -11,9 +11,6 @@ checkout = git clone 'git@github.com:bisq-network/btcd-cli4j.git' 'btcd-cli4j'
 [compensation]
 checkout = git clone 'git@github.com:bisq-network/compensation.git' 'compensation'
 
-[dao]
-checkout = git clone 'git@github.com:bisq-network/dao.git' 'dao'
-
 [dns]
 checkout = git clone 'git@github.com:bisq-network/dns.git' 'dns'
 
@@ -28,6 +25,9 @@ checkout = git clone 'git@github.com:bisq-network/exchange.git' 'exchange'
 
 [forum]
 checkout = git clone 'git@github.com:bisq-network/forum.git' 'forum'
+
+[github]
+checkout = git clone 'git@github.com:bisq-network/github.git' 'github'
 
 [libdohj]
 checkout = git clone 'git@github.com:bisq-network/libdohj.git' 'libdohj'
