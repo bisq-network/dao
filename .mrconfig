@@ -1,0 +1,51 @@
+
+[exchange]
+checkout = git clone 'git@github.com:bisq-network/exchange.git' 'exchange'
+
+[pricenode]
+checkout = git clone 'git@github.com:bisq-network/pricenode.git' 'pricenode'
+
+[bitcoinj]
+checkout = git clone 'git@github.com:bisq-network/bitcoinj.git' 'bitcoinj'
+
+[btcd-cli4j]
+checkout = git clone 'git@github.com:bisq-network/btcd-cli4j.git' 'btcd-cli4j'
+
+[libdohj]
+checkout = git clone 'git@github.com:bisq-network/libdohj.git' 'libdohj'
+
+[newsletter]
+checkout = git clone 'git@github.com:bisq-network/newsletter.git' 'newsletter'
+
+[docker]
+checkout = git clone 'git@github.com:bisq-network/docker.git' 'docker'
+
+[dao]
+checkout = git clone 'git@github.com:bisq-network/dao.git' 'dao'
+
+[website]
+checkout = git clone 'git@github.com:bisq-network/website.git' 'website'
+
+[forum]
+checkout = git clone 'git@github.com:bisq-network/forum.git' 'forum'
+
+[dns]
+checkout = git clone 'git@github.com:bisq-network/dns.git' 'dns'
+
+[roles]
+checkout = git clone 'git@github.com:bisq-network/roles.git' 'roles'
+
+[docs]
+checkout = git clone 'git@github.com:bisq-network/docs.git' 'docs'
+
+[proposals]
+checkout = git clone 'git@github.com:bisq-network/proposals.git' 'proposals'
+
+[lists]
+checkout = git clone 'git@github.com:bisq-network/lists.git' 'lists'
+
+[compensation]
+checkout = git clone 'git@github.com:bisq-network/compensation.git' 'compensation'
+
+[analytics]
+checkout = git clone 'git@github.com:bisq-network/analytics.git' 'analytics'
