@@ -29,6 +29,9 @@ checkout = git clone 'git@github.com:bisq-network/forum.git' 'forum'
 [github]
 checkout = git clone 'git@github.com:bisq-network/github.git' 'github'
 
+[growth]
+checkout = git clone 'git@github.com:bisq-network/growth.git' 'growth'
+
 [libdohj]
 checkout = git clone 'git@github.com:bisq-network/libdohj.git' 'libdohj'
 
