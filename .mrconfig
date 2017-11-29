@@ -56,6 +56,9 @@ checkout = git clone 'git@github.com:bisq-network/roles.git' 'roles'
 [slack]
 checkout = git clone 'git@github.com:bisq-network/slack.git' 'slack'
 
+[support]
+checkout = git clone 'git@github.com:bisq-network/support.git' 'support'
+
 [website]
 checkout = git clone 'git@github.com:bisq-network/website.git' 'website'
 
