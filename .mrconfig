@@ -47,6 +47,9 @@ checkout = git clone 'git@github.com:bisq-network/libdohj.git' 'libdohj'
 [lists]
 checkout = git clone 'git@github.com:bisq-network/lists.git' 'lists'
 
+[markets]
+checkout = git clone 'git@github.com:bisq-network/markets.git' 'markets'
+
 [newsletter]
 checkout = git clone 'git@github.com:bisq-network/newsletter.git' 'newsletter'
 
