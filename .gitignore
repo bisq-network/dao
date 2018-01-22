@@ -1,6 +1,7 @@
 analytics
 bitcoinj
 btcd-cli4j
+btcnode
 compensation
 dns
 docker
@@ -9,7 +10,6 @@ events
 exchange
 explorer
 forum
-fullnode
 github
 growth
 libdohj
