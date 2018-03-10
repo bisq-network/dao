@@ -8,8 +8,35 @@ checkout = git clone 'git@github.com:bisq-network/bitcoinj.git' 'bitcoinj'
 [btcd-cli4j]
 checkout = git clone 'git@github.com:bisq-network/btcd-cli4j.git' 'btcd-cli4j'
 
-[btcnode]
-checkout = git clone 'git@github.com:bisq-network/btcnode.git' 'btcnode'
+[bisq-btcnode]
+checkout = git clone 'git@github.com:bisq-network/bisq-btcnode.git' 'bisq-btcnode'
+
+[bisq-core]
+checkout = git clone 'git@github.com:bisq-network/bisq-core.git' 'bisq-core'
+
+[bisq-desktop]
+checkout = git clone 'git@github.com:bisq-network/exchange' 'bisq-desktop'
+
+[bisq-explorer]
+checkout = git clone 'git@github.com:bisq-network/bisq-explorer.git' 'bisq-explorer'
+
+[bisq-markets]
+checkout = git clone 'git@github.com:bisq-network/bisq-markets.git' 'bisq-markets'
+
+[bisq-monitor]
+checkout = git clone 'git@github.com:bisq-network/bisq-monitor.git' 'bisq-monitor'
+
+[bisq-pricenode]
+checkout = git clone 'git@github.com:bisq-network/bisq-pricenode.git' 'bisq-pricenode'
+
+[bisq-seednode]
+checkout = git clone 'git@github.com:bisq-network/bisq-seednode.git' 'bisq-seednode'
+
+[bisq-statsnode]
+checkout = git clone 'git@github.com:bisq-network/bisq-statsnode.git' 'bisq-statsnode'
+
+[bisq-website]
+checkout = git clone 'git@github.com:bisq-network/bisq-website.git' 'bisq-website'
 
 [compensation]
 checkout = git clone 'git@github.com:bisq-network/compensation.git' 'compensation'
@@ -26,12 +53,6 @@ checkout = git clone 'git@github.com:bisq-network/docs.git' 'docs'
 [events]
 checkout = git clone 'git@github.com:bisq-network/events.git' 'events'
 
-[exchange]
-checkout = git clone 'git@github.com:bisq-network/exchange.git' 'exchange'
-
-[explorer]
-checkout = git clone 'git@github.com:bisq-network/explorer.git' 'explorer'
-
 [forum]
 checkout = git clone 'git@github.com:bisq-network/forum.git' 'forum'
 
@@ -47,14 +68,8 @@ checkout = git clone 'git@github.com:bisq-network/libdohj.git' 'libdohj'
 [lists]
 checkout = git clone 'git@github.com:bisq-network/lists.git' 'lists'
 
-[markets]
-checkout = git clone 'git@github.com:bisq-network/markets.git' 'markets'
-
 [newsletter]
 checkout = git clone 'git@github.com:bisq-network/newsletter.git' 'newsletter'
-
-[pricenode]
-checkout = git clone 'git@github.com:bisq-network/pricenode.git' 'pricenode'
 
 [proposals]
 checkout = git clone 'git@github.com:bisq-network/proposals.git' 'proposals'
@@ -67,9 +82,6 @@ checkout = git clone 'git@github.com:bisq-network/slack.git' 'slack'
 
 [support]
 checkout = git clone 'git@github.com:bisq-network/support.git' 'support'
-
-[website]
-checkout = git clone 'git@github.com:bisq-network/website.git' 'website'
 
 [youtube]
 checkout = git clone 'git@github.com:bisq-network/youtube.git' 'youtube'
