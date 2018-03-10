@@ -3,10 +3,13 @@
 analytics
 archive
 bisq-btcnode
+bisq-common
+bisq-core
 bisq-desktop
 bisq-explorer
 bisq-markets
 bisq-monitor
+bisq-p2p
 bisq-pricenode
 bisq-seednode
 bisq-statsnode

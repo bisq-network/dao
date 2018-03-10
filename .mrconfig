@@ -11,11 +11,14 @@ checkout = git clone 'git@github.com:bisq-network/btcd-cli4j.git' 'btcd-cli4j'
 [bisq-btcnode]
 checkout = git clone 'git@github.com:bisq-network/bisq-btcnode.git' 'bisq-btcnode'
 
+[bisq-common]
+checkout = git clone 'git@github.com:bisq-network/bisq-common.git' 'bisq-common'
+
 [bisq-core]
 checkout = git clone 'git@github.com:bisq-network/bisq-core.git' 'bisq-core'
 
 [bisq-desktop]
-checkout = git clone 'git@github.com:bisq-network/exchange' 'bisq-desktop'
+checkout = git clone 'git@github.com:bisq-network/bisq-desktop' 'bisq-desktop'
 
 [bisq-explorer]
 checkout = git clone 'git@github.com:bisq-network/bisq-explorer.git' 'bisq-explorer'
@@ -25,6 +28,9 @@ checkout = git clone 'git@github.com:bisq-network/bisq-markets.git' 'bisq-market
 
 [bisq-monitor]
 checkout = git clone 'git@github.com:bisq-network/bisq-monitor.git' 'bisq-monitor'
+
+[bisq-p2p]
+checkout = git clone 'git@github.com:bisq-network/bisq-core.git' 'bisq-core'
 
 [bisq-pricenode]
 checkout = git clone 'git@github.com:bisq-network/bisq-pricenode.git' 'bisq-pricenode'
