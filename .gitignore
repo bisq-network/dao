@@ -1,5 +1,10 @@
+# IDEA
+.idea
+
+# macOS
 .DS_Store
 
+# bisq-network GitHub repositories
 analytics
 archive
 bisq-btcnode
