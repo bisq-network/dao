@@ -1,8 +1,15 @@
+#  Gradle
+.gradle
+build
+
 # IDEA
 .idea
 
 # macOS
 .DS_Store
+
+# Vim
+*.sw?
 
 # bisq-network GitHub repositories
 analytics
