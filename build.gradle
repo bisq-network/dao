@@ -1,0 +1,11 @@
+task clean {
+    dependsOn gradle.includedBuilds*.task(':clean')
+}
+
+task test {
+    dependsOn gradle.includedBuilds*.task(':test')
+}
+
+task build {
+    dependsOn gradle.includedBuilds*.task(':build')
+}
