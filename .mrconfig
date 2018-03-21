@@ -1,15 +1,19 @@
 
 [analytics]
 checkout = git clone 'git@github.com:bisq-network/analytics.git' 'analytics'
+skip = true
 
 [bitcoinj]
 checkout = git clone 'git@github.com:bisq-network/bitcoinj.git' 'bitcoinj'
+skip = true
 
 [btcd-cli4j]
 checkout = git clone 'git@github.com:bisq-network/btcd-cli4j.git' 'btcd-cli4j'
+skip = true
 
 [bisq-btcnode]
 checkout = git clone 'git@github.com:bisq-network/bisq-btcnode.git' 'bisq-btcnode'
+skip = true
 
 [bisq-common]
 checkout = git clone 'git@github.com:bisq-network/bisq-common.git' 'bisq-common'
@@ -22,9 +26,11 @@ checkout = git clone 'git@github.com:bisq-network/bisq-desktop' 'bisq-desktop'
 
 [bisq-explorer]
 checkout = git clone 'git@github.com:bisq-network/bisq-explorer.git' 'bisq-explorer'
+skip = true
 
 [bisq-markets]
 checkout = git clone 'git@github.com:bisq-network/bisq-markets.git' 'bisq-markets'
+skip = true
 
 [bisq-monitor]
 checkout = git clone 'git@github.com:bisq-network/bisq-monitor.git' 'bisq-monitor'
@@ -43,51 +49,67 @@ checkout = git clone 'git@github.com:bisq-network/bisq-statsnode.git' 'bisq-stat
 
 [bisq-website]
 checkout = git clone 'git@github.com:bisq-network/bisq-website.git' 'bisq-website'
+skip = true
 
 [compensation]
 checkout = git clone 'git@github.com:bisq-network/compensation.git' 'compensation'
+skip = true
 
 [dns]
 checkout = git clone 'git@github.com:bisq-network/dns.git' 'dns'
+skip = true
 
-[docker]
-checkout = git clone 'git@github.com:bisq-network/docker.git' 'docker'
+[archive/docker]
+checkout = git clone 'git@github.com:bisq-network/docker.git' 'archive/docker'
+skip = true
 
 [docs]
 checkout = git clone 'git@github.com:bisq-network/docs.git' 'docs'
 
 [events]
 checkout = git clone 'git@github.com:bisq-network/events.git' 'events'
+skip = true
 
 [forum]
 checkout = git clone 'git@github.com:bisq-network/forum.git' 'forum'
+skip = true
 
 [github]
 checkout = git clone 'git@github.com:bisq-network/github.git' 'github'
+skip = true
 
 [growth]
 checkout = git clone 'git@github.com:bisq-network/growth.git' 'growth'
+skip = true
 
 [libdohj]
 checkout = git clone 'git@github.com:bisq-network/libdohj.git' 'libdohj'
+skip = true
 
 [lists]
 checkout = git clone 'git@github.com:bisq-network/lists.git' 'lists'
+skip = true
 
 [newsletter]
 checkout = git clone 'git@github.com:bisq-network/newsletter.git' 'newsletter'
+skip = true
 
 [proposals]
 checkout = git clone 'git@github.com:bisq-network/proposals.git' 'proposals'
+skip = true
 
 [roles]
 checkout = git clone 'git@github.com:bisq-network/roles.git' 'roles'
+skip = true
 
 [slack]
 checkout = git clone 'git@github.com:bisq-network/slack.git' 'slack'
+skip = true
 
 [support]
 checkout = git clone 'git@github.com:bisq-network/support.git' 'support'
+skip = true
 
 [youtube]
 checkout = git clone 'git@github.com:bisq-network/youtube.git' 'youtube'
+skip = true
