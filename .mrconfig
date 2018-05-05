@@ -19,9 +19,6 @@ skip = true
 checkout = git clone git@github.com:bisq-network/dns.git dns
 skip = true
 
-[docs]
-checkout = git clone git@github.com:bisq-network/docs.git docs
-
 [events]
 checkout = git clone git@github.com:bisq-network/events.git events
 skip = true
