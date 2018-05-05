@@ -46,10 +46,6 @@ skip = true
 checkout = git clone git@github.com:bisq-network/lists.git lists
 skip = true
 
-[newsletter]
-checkout = git clone git@github.com:bisq-network/newsletter.git newsletter
-skip = true
-
 [proposals]
 checkout = git clone git@github.com:bisq-network/proposals.git proposals
 skip = true
@@ -74,3 +70,6 @@ skip = true
 checkout = git clone git@github.com:bisq-network/docker.git archive/docker
 skip = true
 
+[archive/mailchimp]
+checkout = git clone git@github.com:bisq-network/mailchimp.git mailchimp
+skip = true
